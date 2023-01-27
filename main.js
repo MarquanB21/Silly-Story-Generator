@@ -12,9 +12,9 @@ function randomValueFromArray(array){
 // 2. RAW TEXT STRINGS
 
 var storyText = "It was 94 farenheit outside, so :insertx: went for a walk. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. Bob saw the whole thing, but was not surprised — :insertx: weighs 300 pounds, and it was a hot day.";
-var insertX =['Willy the Goblin','Big Daddy','Father Christmas'];
-var insertY = ['the soup kitchen', 'Disneyland', 'the White House'];
-var insertZ = ['spontaneously combusted', 'melted into a puddle on the sidewalk', 'turned into a slug and crawled away'];
+var insertX =['Willy the Goblin','Big Daddy','Father Christmas','Jimbo Pinkerton','Mr Peabody', 'Snoobs Henderson'];
+var insertY = ['the soup kitchen', 'Disneyland', 'the White House', 'the lake', 'the park', 'the pool', 'Bikini Bottom'];
+var insertZ = ['spontaneously combusted', 'melted into a puddle on the sidewalk', 'turned into a slug and crawled away', 'passed out', 'pulled out a tub of ice cream and sat down'];
 
 
 // 3. EVENT LISTENER AND PARTIAL FUNCTION DEFINITION
